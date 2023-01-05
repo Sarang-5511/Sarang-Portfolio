@@ -468,10 +468,11 @@ text-align: right;
 }
 
 .timeline-content p {
-    color: #8D8585;
+    color: #868686;
 }
 
-.timeline-content button {
+.timeline-content a {
+    
     font-weight: 600;
     font-size: 14px;
     padding: 10px 12px;
@@ -483,10 +484,11 @@ text-align: right;
     border-radius: 5px;
     letter-spacing: 2px;
     text-transform: uppercase;
+    
    
     
 }
-.timeline-content button:hover{
+.timeline-content a:hover{
     cursor: pointer;
     transform: translateY(-3px);
     color: #e3d9d9;
