@@ -2062,7 +2062,7 @@ text-align: right;
 
     /* PROJECT SECTION STARTS */
     #project-section {
-        padding: 3% 6%;
+        padding: 3% 6% 0%;
         margin: auto;
     }
 
@@ -2070,7 +2070,7 @@ text-align: right;
         width: 100%;
         margin: auto;
         /* border-bottom: 1px solid black; */
-        padding-bottom: 60px;
+        padding-bottom: 0px;
     }
 
     .projectcontainer h2 {
