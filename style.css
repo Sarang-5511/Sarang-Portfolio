@@ -1598,7 +1598,7 @@ text-align: right;
     }
 
     .nav-bar.active {
-        height: 420px;
+        height: 390px;
     }
 
     .nav-bar.active ul {
@@ -1612,6 +1612,7 @@ text-align: right;
         text-align: center;
         transition: all 0.3s;
         opacity: 0;
+        
     }
 
     .nav-bar ul li {
@@ -1620,10 +1621,12 @@ text-align: right;
     }
 
     .nav-bar ul li a {
-        align-items: center;
+        letter-spacing: 2px;
+        font-weight: bold;
+       
         display: block;
         padding: 0 25px;
-        font-size: 20px;
+        font-size: 18px;
         color: black;
         text-decoration: none;
     }
