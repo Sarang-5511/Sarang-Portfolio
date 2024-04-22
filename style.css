@@ -8,7 +8,9 @@ body {
     background-color: #ffffff;
     font-size: 16px;
     transition: all 0.2s ease;
-
+    background-image: url(assets/WE\ ARE\ UPDATING\ THE\ SITE.png);
+    background-size: cover; /* Optional: Scale the background image to cover the entire body */
+    background-repeat: no-repeat; 
 }
 
 html {
@@ -467,7 +469,7 @@ text-align: right;
     color: rgb(0, 0, 0);
     line-height: 1.5;
     font-weight: 700;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 .timeline-content p {
